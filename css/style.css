@@ -1,0 +1,22 @@
+
+	* {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  margin-top: 200px;
+}
+
+.timer {
+  width: 900px;
+  margin: 0 auto;
+  background: #e6e6e6;
+  border: 10px solid black;
+  border-radius: 10px;
+  font-size: 100px;
+  font-weight: bold;
+}
+
+.btn-success, .btn-danger {
+  width: 100px;
+  margin: 20px;
+}
